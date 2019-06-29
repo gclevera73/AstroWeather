@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AstroWeather</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="ustawienia" />
+    <string-array name="temperatureUnitsName">
+        <item>Celcjusz</item>
+        <item>Fahrenheit</item>
+    </string-array>
+
+    <string-array name="temperatureUnitsValues">
+        <item>C</item>
+        <item>F</item>
+    </string-array>
+</resources>
